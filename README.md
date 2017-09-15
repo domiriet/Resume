@@ -24,4 +24,4 @@ dominika.rietschin@outlook.com
 Polish | French | English 
 
 ## COMPUTER SKILLS 
-MATLAB | R | Excel (P ivot ta bles, Macr os )| SQL Server | Google Analytics
+MATLAB | R | Excel (Pivot tables, Macros )| SQL Server | Google Analytics
